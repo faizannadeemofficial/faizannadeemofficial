@@ -12,5 +12,5 @@ Currently, I'm offering **Software, Web solution and custom AI agents & RAG-base
 - **Freelance Development** – Creating innovative digital products for businesses.
 
 ### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230076C0.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mfaizan422/)
-[![Email]https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:imfaizannadeem@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230076C0.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mfaizan422/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:imfaizannadeem@gmail.com)  
+
