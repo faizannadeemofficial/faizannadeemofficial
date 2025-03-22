@@ -1,13 +1,15 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/153651075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Gazi**](https://gazijarin.com), a software engineer and artist in New York City.
+I'm [**Faizan**](https://faizannadeem.framer.website/), a freelance **UI/UX designer**, **Software engineer** and **AI enthusiast** from Pakistan.  
 
-I currently work as a software engineer at [**@Google**](https://github.com/google), where I help build Proxybidder ML models that make Google Search money. Previously, I was at [**@Amazon**](https://github.com/aws) and [**@Pinterest**](https://github.com/pinterest).
+I specialize in **creating intuitive UI/UX designs**, building **Software solutions** and developing **AI-driven solutions & automation systems**. My work focuses on enhancing user experiences and building smart, efficient digital solutions.  
 
-I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as apps that have 100M+ installs. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
+Currently, I'm offering **Software, Web solution and custom AI agents & RAG-based bots** for businesses on **Fiverr**, helping them automate tasks and improve productivity.  
 
-Outside of work, I'm interested in following the developments of science. I make [art](https://polyliths.tumblr.com/), play video games and make tech-related content (over 1M+ combined followers and counting).
+### 🚀 What I Do:
+- **UI/UX Design** – Crafting user-friendly and visually appealing designs.
+- **Automation Systems** – Building AI-driven solutions to optimize workflows.
+- **Freelance Development** – Creating innovative digital products for businesses.
 
-#### Let's connect!
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@gazijarin.ai)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/gazijarin)
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230076C0.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mfaizan422/)  
