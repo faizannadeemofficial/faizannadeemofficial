@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/153651075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Faizan**]([https://faizannadeem.framer.website/](https://www.linkedin.com/in/mfaizan422/), a freelance **UI/UX designer**, **Software engineer** and **AI enthusiast** from Pakistan.  
+I'm [**Faizan**]([https://www.linkedin.com/in/mfaizan422/], a freelance **UI/UX designer**, **Software engineer** and **AI enthusiast** from Pakistan.  
 
 I specialize in **creating intuitive UI/UX designs**, building **Software solutions** and developing **AI-driven solutions & automation systems**. My work focuses on enhancing user experiences and building smart, efficient digital solutions.  
 
