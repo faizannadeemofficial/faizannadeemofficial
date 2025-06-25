@@ -1,15 +1,8 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/153651075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Faizan**](https://www.linkedin.com/in/mfaizan422/), a **Software engineer** and **AI enthusiast** from Pakistan.  
+I'm Muhammad Faizan N., a **Software engineer** from 🇵🇰.  
 
-I specialize in **creating intuitive systems**, building **Software solutions** and developing **AI-driven solutions & automation systems**. My work focuses on enhancing user experiences and building smart, efficient digital solutions.  
-
-Currently, I'm offering **Software, Web solution and custom AI agents & RAG-based bots** for businesses helping them automate tasks and improve productivity.  
-
-### 🚀 What I Do:
-- **Web Development** - Developing a business friendly website.
-- **Software Development** - Crafting Solution according to your business needs.
-- **Automation Systems** – Building AI-driven solutions to optimize workflows.
+Experienced Software Developer with a strong background in full-stack development and automation. Proficient in Django, Flask, React and JavaScript, with extensive work in multimedia processing using FFmpeg and MoviePy. Developed end-to-end solutions including a content moderation platform for text, audio, image, and video, and an automated video creation tool. Skilled in browser automation with Selenium and building scalable, production-ready systems.
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230076C0.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mfaizan422/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:imfaizannadeem@gmail.com)  
